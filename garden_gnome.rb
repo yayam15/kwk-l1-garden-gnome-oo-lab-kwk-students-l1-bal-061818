@@ -1,5 +1,5 @@
 # Code your instances here
-class GardenGnome
+class GardenGnome 
   def name = name
     @name = name
   end
